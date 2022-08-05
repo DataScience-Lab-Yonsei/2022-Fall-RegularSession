@@ -2,7 +2,7 @@
 ## 정규세션 및 심화세션
 |Date|Topic|Reference|Lecture|Presenter|
 |:---:|:---:|:---:|:---:|:---:|
-|220804|Supervised Learning|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220804%20Supervised%20Learning/%EC%9E%90%EB%A3%8C)||7기 김예진|
+|220804|Supervised Learning|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220804%20Supervised%20Learning/%EC%9E%90%EB%A3%8C)||[Youtube](https://youtu.be/3ULCzqKk4Js)|7기 김예진|
 |220809|Decision Tree & Ensemble|||7기 김원|
 |220811|Unsupervised Learning|||7기 김경한|
 |220816|ML with Bayesian||||
