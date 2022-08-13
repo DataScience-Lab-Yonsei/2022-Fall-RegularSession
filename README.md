@@ -3,8 +3,8 @@
 |Date|Topic|Reference|Lecture|Presenter|
 |:---:|:---:|:---:|:---:|:---:|
 |220804|Supervised Learning|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220804%20Supervised%20Learning/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/3ULCzqKk4Js)<br>[Youtube](https://youtu.be/TsUIOpIsyN0)<br>[Youtube](https://youtu.be/U75ceEfCCFQ)<br>[Youtube](https://youtu.be/L8lrBexK0qY)|7기 김예진|
-|220809|Decision Tree & Ensemble|||7기 김원|
-|220811|Unsupervised Learning|||7기 김경한|
+|220809|Decision Tree & Ensemble|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220809%20Decision%20Tree%20%26%20Ensemble/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/hYNDWseRok0)|7기 김원|
+|220811|Unsupervised Learning|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220811%20Unsupervised%20Learning/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/lQzMjkn58Lw)|7기 김경한|
 |220816|차원축소 개괄 및 모델링과 통계학|||1기 민형규|
 |220818|Deep Learning Basic|||7기 전혜령|
 |220823|CNN|||7기 전재현|
