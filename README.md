@@ -8,7 +8,7 @@
 |220816|차원축소 개괄 및 모델링과 통계학|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220816%20%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C%20%EA%B0%9C%EA%B4%84%20%EB%B0%8F%20%EB%AA%A8%EB%8D%B8%EB%A7%81%EA%B3%BC%20%ED%86%B5%EA%B3%84%ED%95%99/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/XRaJBqgZjas)|1기 민형규|
 |220818|Deep Learning Basic|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220818%20Deep%20Learning%20Basic/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/navtH0-qQVQ)<br>[Youtube 보충](https://youtu.be/TgVkvPMbq_4)<br>[Youtube 보충](https://youtu.be/xf1JpxlvYqU)|7기 전혜령|
 |220823|CNN|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220823%20CNN/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/DMd2W913COU)<br>[Youtube 보충](https://youtu.be/2okyPvNxOKU)<br>[Youtube 보충](https://youtu.be/N7NeQwSi92g)|7기 전재현|
-|220825|CNN Implementation|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220825%20CNN%20Implementation/%EC%9E%90%EB%A3%8C)||7기 이승연|
+|220825|CNN Implementation|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220825%20CNN%20Implementation/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/PiEeV8jhkb0)|7기 이승연|
 |220830|Text Mining & Word Embedding|||7기 최명헌|
 |220901|RNN|||7기 김채은|
 |220908|Transformer|||7기 전혜령|
