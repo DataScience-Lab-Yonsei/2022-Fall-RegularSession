@@ -9,7 +9,7 @@
 |220818|Deep Learning Basic|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220818%20Deep%20Learning%20Basic/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/navtH0-qQVQ)<br>[Youtube 보충](https://youtu.be/TgVkvPMbq_4)<br>[Youtube 보충](https://youtu.be/xf1JpxlvYqU)|7기 전혜령|
 |220823|CNN|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220823%20CNN/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/DMd2W913COU)<br>[Youtube 보충](https://youtu.be/2okyPvNxOKU)<br>[Youtube 보충](https://youtu.be/N7NeQwSi92g)|7기 전재현|
 |220825|CNN Implementation|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220825%20CNN%20Implementation/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/PiEeV8jhkb0)<br>[Youtube 보충](https://youtu.be/EsGfb-sKr8w)|7기 이승연|
-|220830|Text Mining & Word Embedding|||7기 최명헌|
+|220830|Text Mining & Word Embedding|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220830%20Text%20Mining%20%26%20Embedding/%EC%9E%90%EB%A3%8C)||7기 최명헌|
 |220901|RNN|||7기 김채은|
 |220908|Transformer|||7기 전혜령|
 |220915|Transformer|||7기 김예진|
