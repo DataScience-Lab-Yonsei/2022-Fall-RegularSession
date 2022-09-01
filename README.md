@@ -12,6 +12,6 @@
 |220830|Text Mining & Word Embedding|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220830%20Text%20Mining%20%26%20Embedding/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/koeYEMbs_EU)|7기 최명헌|
 |220901|RNN|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220901%20RNN/%EC%9E%90%EB%A3%8C)||7기 김채은|
 |220908|Recommender System Basic|||6기 이승재|
-|220915||||7기 전혜령|
-|220922||||7기 전혜령<br>7기 김예진|
-|220929||||7기 김예진|
+|220915|Attention & Transformer|||7기 전혜령|
+|220922|Transformer & Generative Model Basic|||7기 전혜령<br>7기 김예진|
+|220929|Generative Model|||7기 김예진|
