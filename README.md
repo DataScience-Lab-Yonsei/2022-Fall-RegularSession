@@ -13,5 +13,5 @@
 |220901|RNN|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220901%20RNN/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/NpIx4uV1Nts)|7기 김채은|
 |220908|Recommender System|||6기 이승재|
 |220915|Attention & Transformer|||7기 전혜령|
-|220922|Transformer & Generative Model Basic|||7기 전혜령<br>7기 김예진|
-|220929|Generative Model|||7기 김예진|
+|220922|Transformer & Generative Model Basic|||7기 김예진|
+|220929|Generative Model|||6기 안민용|
